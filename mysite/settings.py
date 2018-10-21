@@ -25,7 +25,7 @@ SECRET_KEY = 'r@vsfvu&%0r1up5f(@c^(q=i%xyq&kppzi2^=fb=tqbo581$8#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<tigmi>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'tigmi.pythonanywhere.com']
 
 
 # Application definition
